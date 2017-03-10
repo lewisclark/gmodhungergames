@@ -1,0 +1,5 @@
+"hungergames_hub"
+{
+	"title"		"secret shiz"
+	"base"		"base"
+}
